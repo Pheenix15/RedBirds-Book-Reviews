@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9ebf1b6.css",
+    "main.js": "/static/js/main.da02b9e0.js",
+    "static/media/bkg-cover.jpg": "/static/media/bkg-cover.550e819c5e4dc12d8991.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.c9ebf1b6.css.map": "/static/css/main.c9ebf1b6.css.map",
+    "main.da02b9e0.js.map": "/static/js/main.da02b9e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9ebf1b6.css",
+    "static/js/main.da02b9e0.js"
+  ]
+}
